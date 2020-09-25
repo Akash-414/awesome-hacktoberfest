@@ -1,18 +1,19 @@
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md).
+By participating in this project you agree to abide by its terms.
 
----
+## Add quality
 
-Ensure your pull request adheres to the following guidelines:
+Ensure your pull request adheres to the following guidelines
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+1. Hacktoberfest's value #2 **Quantity is fun, quality is key**. See <https://hacktoberfest.digitalocean.com/details> for details.
+2. Only awesome is awesome. See <https://github.com/sindresorhus/awesome/blob/master/awesome.md> for details.
 
-Thank you for your suggestions!
+## Ensure quality
+
+- Sort in your proposal alphabetically.
+- Add a description to your proposal. See <https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md> for details.
 
 ## Updating your PR
 
